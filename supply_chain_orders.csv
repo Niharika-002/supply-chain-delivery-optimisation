@@ -1,0 +1,501 @@
+order_id,order_date,region,warehouse,product_category,units_ordered,unit_cost_gbp,total_order_value_gbp,shipping_mode,promised_delivery_days,actual_delivery_days,delivery_status,return_flag,customer_satisfaction_score,warehouse_utilisation_pct
+ORD-0001,25/04/2023,Scotland,Warehouse D - Edinburgh,Electronics,5,389.32,1946.6,Standard,5,8,Failed,Y,1,89.6
+ORD-0002,14/01/2023,North England,Warehouse A - Manchester,Clothing,18,35.88,645.84,Standard,5,5,On Time,N,5,69.2
+ORD-0003,24/12/2023,London,Warehouse C - London,Electronics,14,222.91,3120.74,Express,2,6,Failed,Y,1,65.4
+ORD-0004,23/01/2023,North England,Warehouse A - Manchester,Sports & Outdoors,24,102.7,2464.8,Express,2,5,Failed,Y,1,45.6
+ORD-0005,09/04/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,23,32.52,747.96,Standard,5,7,Late,N,3,89.2
+ORD-0006,06/07/2023,London,Warehouse C - London,Clothing,6,53.87,323.22,Standard,5,5,On Time,N,5,67.3
+ORD-0007,25/03/2023,Scotland,Warehouse D - Edinburgh,Electronics,15,239.37,3590.55,Express,2,3,Late,N,3,98.7
+ORD-0008,17/01/2023,London,Warehouse C - London,Furniture,26,320.82,8341.32,Standard,5,5,On Time,N,5,69.4
+ORD-0009,26/11/2023,South England,Warehouse C - London,Furniture,15,200.01,3000.15,Standard,5,6,Late,N,3,64.9
+ORD-0010,12/03/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,17,27.21,462.57,Standard,5,7,Late,Y,1,74
+ORD-0011,02/11/2023,Wales,Warehouse E - Cardiff,Food & Grocery,15,28.81,432.15,Standard,5,8,Failed,Y,2,98.2
+ORD-0012,25/11/2023,Wales,Warehouse E - Cardiff,Food & Grocery,11,10.02,110.22,Standard,5,5,On Time,N,5,82.6
+ORD-0013,24/02/2023,South England,Warehouse C - London,Food & Grocery,28,33.14,927.92,Standard,5,5,On Time,N,4,89.5
+ORD-0014,01/01/2023,South England,Warehouse C - London,Sports & Outdoors,20,78.35,1567,Same-Day,1,5,Failed,N,2,60.7
+ORD-0015,10/02/2023,South England,Warehouse C - London,Electronics,3,387.4,1162.2,Same-Day,1,6,Failed,Y,1,88.6
+ORD-0016,28/09/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,28,129.19,3617.32,Standard,5,9,Failed,N,1,98
+ORD-0017,11/07/2023,Wales,Warehouse E - Cardiff,Clothing,15,109.46,1641.9,Express,2,2,On Time,Y,3,83.1
+ORD-0018,29/12/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,21,7.65,160.65,Standard,5,5,On Time,N,5,72
+ORD-0019,20/10/2023,South England,Warehouse C - London,Food & Grocery,19,26.27,499.13,Standard,5,7,Late,Y,1,87.5
+ORD-0020,28/01/2023,Midlands,Warehouse B - Birmingham,Clothing,22,83.61,1839.42,Standard,5,5,On Time,N,5,69.1
+ORD-0021,13/03/2023,North England,Warehouse A - Manchester,Electronics,14,157.06,2198.84,Standard,5,7,Late,Y,3,60.8
+ORD-0022,04/10/2023,London,Warehouse C - London,Electronics,27,86.2,2327.4,Express,2,3,Late,Y,2,63.3
+ORD-0023,26/03/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,13,20.39,265.07,Same-Day,1,5,Failed,N,1,57.6
+ORD-0024,05/12/2023,Wales,Warehouse E - Cardiff,Furniture,23,440.67,10135.41,Express,2,2,On Time,Y,5,75.5
+ORD-0025,02/09/2023,North England,Warehouse A - Manchester,Clothing,17,111.54,1896.18,Standard,5,5,On Time,N,5,63.9
+ORD-0026,26/07/2023,North England,Warehouse A - Manchester,Electronics,4,475.47,1901.88,Same-Day,1,2,Late,Y,1,65.6
+ORD-0027,14/05/2023,Wales,Warehouse E - Cardiff,Food & Grocery,7,35.14,245.98,Standard,5,5,On Time,N,5,79.1
+ORD-0028,05/01/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,15,131.81,1977.15,Same-Day,1,1,On Time,N,5,65.3
+ORD-0029,06/05/2023,North England,Warehouse A - Manchester,Clothing,12,44.92,539.04,Standard,5,5,On Time,N,5,59.7
+ORD-0030,11/10/2023,London,Warehouse C - London,Food & Grocery,10,46.93,469.3,Express,2,5,Failed,Y,2,63.6
+ORD-0031,18/04/2023,Wales,Warehouse E - Cardiff,Electronics,23,224.01,5152.23,Standard,5,8,Failed,Y,1,89.9
+ORD-0032,22/05/2023,London,Warehouse C - London,Electronics,2,81.49,162.98,Express,2,3,Late,Y,3,87
+ORD-0033,08/02/2023,Scotland,Warehouse D - Edinburgh,Clothing,29,87.56,2539.24,Standard,5,5,On Time,N,5,74.3
+ORD-0034,21/01/2023,Midlands,Warehouse B - Birmingham,Electronics,29,230.28,6678.12,Standard,5,6,Late,N,2,70.7
+ORD-0035,02/05/2023,London,Warehouse C - London,Sports & Outdoors,28,49.25,1379,Express,2,2,On Time,N,4,88
+ORD-0036,09/12/2023,London,Warehouse C - London,Furniture,28,614.54,17207.12,Standard,5,5,On Time,N,4,68.7
+ORD-0037,24/08/2023,North England,Warehouse A - Manchester,Food & Grocery,12,18.73,224.76,Standard,5,5,On Time,Y,4,75.8
+ORD-0038,23/05/2023,South England,Warehouse C - London,Sports & Outdoors,12,135.47,1625.64,Same-Day,1,6,Failed,Y,2,74
+ORD-0039,16/05/2023,North England,Warehouse A - Manchester,Sports & Outdoors,2,39.51,79.02,Standard,5,6,Late,N,3,59.6
+ORD-0040,11/05/2023,Midlands,Warehouse B - Birmingham,Clothing,2,89.42,178.84,Express,2,5,Failed,Y,2,40.1
+ORD-0041,05/02/2023,Wales,Warehouse E - Cardiff,Furniture,22,744.54,16379.88,Standard,5,6,Late,Y,4,88.1
+ORD-0042,23/12/2023,Midlands,Warehouse B - Birmingham,Furniture,10,488.09,4880.9,Standard,5,5,On Time,N,5,48.6
+ORD-0043,01/01/2023,South England,Warehouse C - London,Food & Grocery,10,17.91,179.1,Standard,5,5,On Time,N,5,75
+ORD-0044,28/03/2023,Midlands,Warehouse B - Birmingham,Clothing,22,23.9,525.8,Standard,5,5,On Time,N,5,63.2
+ORD-0045,12/04/2023,London,Warehouse C - London,Furniture,5,117.1,585.5,Standard,5,5,On Time,N,3,68.6
+ORD-0046,23/12/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,13,27.25,354.25,Standard,5,5,On Time,Y,5,51
+ORD-0047,01/04/2023,London,Warehouse C - London,Electronics,26,482.35,12541.1,Standard,5,5,On Time,N,5,78.1
+ORD-0048,14/10/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,20,77.11,1542.2,Express,2,2,On Time,N,5,74
+ORD-0049,23/03/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,24,175.07,4201.68,Standard,5,6,Late,N,2,60.3
+ORD-0050,14/08/2023,London,Warehouse C - London,Food & Grocery,3,37.11,111.33,Standard,5,5,On Time,N,3,68.2
+ORD-0051,20/04/2023,South England,Warehouse C - London,Clothing,3,58.56,175.68,Standard,5,5,On Time,Y,5,71.6
+ORD-0052,11/01/2023,Midlands,Warehouse B - Birmingham,Furniture,28,716.46,20060.88,Same-Day,1,1,On Time,N,4,65.9
+ORD-0053,03/10/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,24,152.23,3653.52,Express,2,5,Failed,Y,1,76
+ORD-0054,27/07/2023,Midlands,Warehouse B - Birmingham,Clothing,24,32.33,775.92,Express,2,2,On Time,N,3,61
+ORD-0055,26/11/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,14,11.11,155.54,Standard,5,5,On Time,N,4,60.8
+ORD-0056,04/08/2023,South England,Warehouse C - London,Furniture,9,684.44,6159.96,Standard,5,6,Late,Y,4,76.5
+ORD-0057,21/01/2023,South England,Warehouse C - London,Electronics,25,93.03,2325.75,Same-Day,1,4,Failed,N,1,68.7
+ORD-0058,27/08/2023,Midlands,Warehouse B - Birmingham,Electronics,23,187.62,4315.26,Same-Day,1,2,Late,N,3,56.6
+ORD-0059,24/10/2023,London,Warehouse C - London,Electronics,1,470.13,470.13,Standard,5,8,Failed,Y,2,80.2
+ORD-0060,05/05/2023,South England,Warehouse C - London,Food & Grocery,4,36.37,145.48,Express,2,3,Late,N,3,70.6
+ORD-0061,05/12/2023,Scotland,Warehouse D - Edinburgh,Electronics,12,108.96,1307.52,Standard,5,5,On Time,N,5,88.8
+ORD-0062,24/08/2023,Midlands,Warehouse B - Birmingham,Clothing,23,31.06,714.38,Same-Day,1,1,On Time,N,5,47.9
+ORD-0063,31/10/2023,London,Warehouse C - London,Furniture,9,325.61,2930.49,Standard,5,9,Failed,Y,1,68.6
+ORD-0064,22/06/2023,London,Warehouse C - London,Food & Grocery,1,27.24,27.24,Express,2,2,On Time,N,4,71.4
+ORD-0065,12/10/2023,South England,Warehouse C - London,Food & Grocery,1,28.25,28.25,Same-Day,1,1,On Time,N,5,66.7
+ORD-0066,18/08/2023,South England,Warehouse C - London,Food & Grocery,26,5.78,150.28,Express,2,2,On Time,N,5,70.3
+ORD-0067,09/10/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,11,20.83,229.13,Standard,5,5,On Time,N,5,60.4
+ORD-0068,20/12/2023,South England,Warehouse C - London,Furniture,6,234.08,1404.48,Same-Day,1,1,On Time,N,5,85.9
+ORD-0069,01/06/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,8,84.96,679.68,Express,2,3,Late,Y,1,78.8
+ORD-0070,23/11/2023,North England,Warehouse A - Manchester,Clothing,28,94.04,2633.12,Same-Day,1,1,On Time,N,5,44.6
+ORD-0071,02/09/2023,South England,Warehouse C - London,Sports & Outdoors,4,167.98,671.92,Standard,5,5,On Time,N,3,74
+ORD-0072,08/05/2023,North England,Warehouse A - Manchester,Food & Grocery,4,30.11,120.44,Standard,5,5,On Time,N,5,58.7
+ORD-0073,29/10/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,14,74.97,1049.58,Standard,5,5,On Time,N,5,67.9
+ORD-0074,22/03/2023,South England,Warehouse C - London,Clothing,8,33.25,266,Express,2,2,On Time,N,5,62.6
+ORD-0075,26/12/2023,South England,Warehouse C - London,Clothing,28,62.67,1754.76,Express,2,6,Failed,N,1,84.1
+ORD-0076,06/10/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,8,136.57,1092.56,Standard,5,7,Late,Y,1,96.3
+ORD-0077,28/05/2023,South England,Warehouse C - London,Furniture,15,187.05,2805.75,Express,2,3,Late,N,2,84.1
+ORD-0078,10/08/2023,Midlands,Warehouse B - Birmingham,Electronics,24,215.38,5169.12,Standard,5,5,On Time,N,5,51.3
+ORD-0079,11/12/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,27,68.51,1849.77,Same-Day,1,3,Late,N,3,71.2
+ORD-0080,22/11/2023,London,Warehouse C - London,Electronics,27,286.52,7736.04,Express,2,2,On Time,N,5,63.2
+ORD-0081,28/05/2023,London,Warehouse C - London,Clothing,22,114.25,2513.5,Express,2,3,Late,N,2,88.5
+ORD-0082,21/09/2023,South England,Warehouse C - London,Sports & Outdoors,27,197.86,5342.22,Standard,5,5,On Time,N,4,83
+ORD-0083,27/01/2023,Midlands,Warehouse B - Birmingham,Furniture,7,286.94,2008.58,Express,2,2,On Time,N,5,45.9
+ORD-0084,30/12/2023,North England,Warehouse A - Manchester,Food & Grocery,6,18.98,113.88,Express,2,2,On Time,N,5,40.6
+ORD-0085,20/03/2023,North England,Warehouse A - Manchester,Sports & Outdoors,16,187.88,3006.08,Express,2,3,Late,N,2,53.1
+ORD-0086,08/04/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,30,31.97,959.1,Standard,5,5,On Time,Y,5,73.6
+ORD-0087,17/05/2023,London,Warehouse C - London,Clothing,27,15.27,412.29,Express,2,4,Late,N,3,85.4
+ORD-0088,20/06/2023,London,Warehouse C - London,Clothing,18,95.1,1711.8,Standard,5,9,Failed,N,2,73.2
+ORD-0089,30/07/2023,South England,Warehouse C - London,Clothing,2,48.41,96.82,Same-Day,1,5,Failed,Y,2,76.6
+ORD-0090,19/01/2023,London,Warehouse C - London,Furniture,5,451.6,2258,Standard,5,8,Failed,N,1,80.7
+ORD-0091,29/07/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,28,34.47,965.16,Express,2,2,On Time,N,4,46.9
+ORD-0092,12/12/2023,Wales,Warehouse E - Cardiff,Food & Grocery,28,29.01,812.28,Same-Day,1,3,Late,N,2,97.7
+ORD-0093,17/12/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,30,17.93,537.9,Standard,5,5,On Time,N,5,76.6
+ORD-0094,03/06/2023,Wales,Warehouse E - Cardiff,Electronics,29,92.16,2672.64,Standard,5,5,On Time,N,4,79.4
+ORD-0095,03/04/2023,South England,Warehouse C - London,Clothing,6,33.38,200.28,Express,2,2,On Time,N,5,81.3
+ORD-0096,24/08/2023,Scotland,Warehouse D - Edinburgh,Clothing,9,85.02,765.18,Express,2,2,On Time,N,5,96.1
+ORD-0097,03/06/2023,North England,Warehouse A - Manchester,Sports & Outdoors,21,193.17,4056.57,Same-Day,1,1,On Time,N,5,71.1
+ORD-0098,03/07/2023,London,Warehouse C - London,Electronics,19,204.27,3881.13,Standard,5,5,On Time,N,4,84.5
+ORD-0099,26/01/2023,North England,Warehouse A - Manchester,Sports & Outdoors,30,129.15,3874.5,Express,2,5,Failed,Y,2,62.4
+ORD-0100,14/11/2023,Scotland,Warehouse D - Edinburgh,Clothing,9,86.17,775.53,Express,2,3,Late,N,3,90.9
+ORD-0101,14/08/2023,London,Warehouse C - London,Food & Grocery,2,31.08,62.16,Standard,5,5,On Time,N,5,85.6
+ORD-0102,07/07/2023,South England,Warehouse C - London,Electronics,17,290.75,4942.75,Standard,5,5,On Time,N,5,69.5
+ORD-0103,28/02/2023,London,Warehouse C - London,Clothing,15,116.1,1741.5,Same-Day,1,6,Failed,N,2,64.9
+ORD-0104,07/07/2023,London,Warehouse C - London,Sports & Outdoors,3,162.32,486.96,Express,2,2,On Time,N,5,60.5
+ORD-0105,10/07/2023,Wales,Warehouse E - Cardiff,Food & Grocery,4,35.37,141.48,Express,2,3,Late,N,2,83.7
+ORD-0106,26/08/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,30,36.55,1096.5,Express,2,2,On Time,Y,3,88.8
+ORD-0107,03/10/2023,London,Warehouse C - London,Electronics,5,243.23,1216.15,Standard,5,9,Failed,N,1,73
+ORD-0108,02/12/2023,Scotland,Warehouse D - Edinburgh,Furniture,4,683.59,2734.36,Same-Day,1,5,Failed,Y,1,87.9
+ORD-0109,05/07/2023,South England,Warehouse C - London,Clothing,4,118,472,Standard,5,8,Failed,N,1,72.9
+ORD-0110,21/08/2023,South England,Warehouse C - London,Sports & Outdoors,3,139.3,417.9,Same-Day,1,2,Late,Y,3,82.5
+ORD-0111,05/02/2023,South England,Warehouse C - London,Electronics,27,401.37,10836.99,Express,2,2,On Time,N,4,67.3
+ORD-0112,16/03/2023,North England,Warehouse A - Manchester,Sports & Outdoors,5,117.24,586.2,Standard,5,5,On Time,N,4,75.9
+ORD-0113,09/01/2023,Midlands,Warehouse B - Birmingham,Furniture,6,285.76,1714.56,Express,2,2,On Time,N,3,45.7
+ORD-0114,20/08/2023,Midlands,Warehouse B - Birmingham,Clothing,17,38.26,650.42,Express,2,3,Late,N,3,67.7
+ORD-0115,03/09/2023,South England,Warehouse C - London,Food & Grocery,28,23.07,645.96,Standard,5,5,On Time,N,3,84
+ORD-0116,21/05/2023,North England,Warehouse A - Manchester,Food & Grocery,20,33.49,669.8,Standard,5,5,On Time,N,5,64.7
+ORD-0117,26/12/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,4,43.38,173.52,Standard,5,6,Late,N,2,69.3
+ORD-0118,21/08/2023,Midlands,Warehouse B - Birmingham,Clothing,13,58.68,762.84,Standard,5,5,On Time,N,4,44.3
+ORD-0119,13/02/2023,South England,Warehouse C - London,Sports & Outdoors,3,97.74,293.22,Standard,5,5,On Time,N,3,86.1
+ORD-0120,30/07/2023,London,Warehouse C - London,Food & Grocery,12,44.31,531.72,Express,2,2,On Time,N,3,92.9
+ORD-0121,17/09/2023,South England,Warehouse C - London,Clothing,7,31.25,218.75,Standard,5,7,Late,N,2,76.9
+ORD-0122,08/08/2023,North England,Warehouse A - Manchester,Clothing,28,73.9,2069.2,Standard,5,6,Late,N,2,74.5
+ORD-0123,15/01/2023,Scotland,Warehouse D - Edinburgh,Furniture,6,291.29,1747.74,Express,2,6,Failed,Y,1,92.1
+ORD-0124,21/11/2023,North England,Warehouse A - Manchester,Furniture,1,164.23,164.23,Standard,5,5,On Time,N,4,63.9
+ORD-0125,02/11/2023,South England,Warehouse C - London,Clothing,3,107.75,323.25,Same-Day,1,3,Late,Y,1,65.4
+ORD-0126,01/08/2023,Midlands,Warehouse B - Birmingham,Clothing,9,37.63,338.67,Express,2,2,On Time,N,5,63.1
+ORD-0127,23/04/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,13,49.3,640.9,Standard,5,5,On Time,N,5,71.6
+ORD-0128,12/09/2023,London,Warehouse C - London,Clothing,24,60.22,1445.28,Standard,5,5,On Time,N,5,64.5
+ORD-0129,22/01/2023,Wales,Warehouse E - Cardiff,Clothing,14,16.97,237.58,Standard,5,8,Failed,Y,1,96.7
+ORD-0130,11/01/2023,Wales,Warehouse E - Cardiff,Clothing,11,33.05,363.55,Standard,5,5,On Time,N,4,97.5
+ORD-0131,25/07/2023,Midlands,Warehouse B - Birmingham,Electronics,17,113.03,1921.51,Standard,5,6,Late,Y,3,79.2
+ORD-0132,10/04/2023,North England,Warehouse A - Manchester,Food & Grocery,29,39.93,1157.97,Standard,5,9,Failed,N,1,55.8
+ORD-0133,20/03/2023,North England,Warehouse A - Manchester,Clothing,25,94.71,2367.75,Standard,5,9,Failed,N,1,43.4
+ORD-0134,17/10/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,21,33.59,705.39,Express,2,5,Failed,N,1,88.1
+ORD-0135,21/05/2023,North England,Warehouse A - Manchester,Clothing,19,20.9,397.1,Standard,5,5,On Time,N,3,62.8
+ORD-0136,16/02/2023,London,Warehouse C - London,Electronics,20,329.51,6590.2,Same-Day,1,2,Late,N,3,73.5
+ORD-0137,07/04/2023,North England,Warehouse A - Manchester,Sports & Outdoors,11,128.9,1417.9,Express,2,6,Failed,Y,2,62.6
+ORD-0138,27/11/2023,London,Warehouse C - London,Sports & Outdoors,6,27.05,162.3,Standard,5,10,Failed,Y,1,84.8
+ORD-0139,23/06/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,22,127.62,2807.64,Standard,5,6,Late,Y,1,75.5
+ORD-0140,03/12/2023,Wales,Warehouse E - Cardiff,Clothing,30,78.28,2348.4,Express,2,2,On Time,N,5,74.4
+ORD-0141,08/03/2023,South England,Warehouse C - London,Furniture,20,596.18,11923.6,Express,2,2,On Time,N,4,63
+ORD-0142,17/12/2023,North England,Warehouse A - Manchester,Furniture,30,468.48,14054.4,Same-Day,1,1,On Time,N,4,69.1
+ORD-0143,06/09/2023,South England,Warehouse C - London,Clothing,7,38.79,271.53,Same-Day,1,1,On Time,N,4,64.8
+ORD-0144,20/01/2023,London,Warehouse C - London,Sports & Outdoors,22,80.62,1773.64,Same-Day,1,1,On Time,N,4,86.8
+ORD-0145,26/03/2023,London,Warehouse C - London,Furniture,24,406.37,9752.88,Express,2,3,Late,Y,2,74.4
+ORD-0146,01/10/2023,South England,Warehouse C - London,Furniture,8,316.63,2533.04,Standard,5,5,On Time,N,4,88.3
+ORD-0147,25/05/2023,London,Warehouse C - London,Sports & Outdoors,25,88.74,2218.5,Standard,5,10,Failed,N,2,78.5
+ORD-0148,10/07/2023,North England,Warehouse A - Manchester,Clothing,18,113.1,2035.8,Express,2,2,On Time,N,3,72
+ORD-0149,12/08/2023,South England,Warehouse C - London,Clothing,3,114.37,343.11,Standard,5,5,On Time,N,3,67.8
+ORD-0150,11/02/2023,North England,Warehouse A - Manchester,Food & Grocery,12,15.1,181.2,Standard,5,5,On Time,N,4,54.3
+ORD-0151,30/08/2023,North England,Warehouse A - Manchester,Electronics,23,429.07,9868.61,Same-Day,1,2,Late,N,4,74.1
+ORD-0152,08/11/2023,North England,Warehouse A - Manchester,Clothing,17,59.44,1010.48,Standard,5,5,On Time,N,4,74.9
+ORD-0153,13/09/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,20,29.12,582.4,Standard,5,6,Late,N,2,88.3
+ORD-0154,06/04/2023,North England,Warehouse A - Manchester,Clothing,22,85.16,1873.52,Express,2,2,On Time,N,5,63.6
+ORD-0155,29/08/2023,London,Warehouse C - London,Food & Grocery,2,33.61,67.22,Standard,5,5,On Time,Y,5,94.3
+ORD-0156,25/10/2023,South England,Warehouse C - London,Furniture,24,629.68,15112.32,Express,2,2,On Time,N,5,64.7
+ORD-0157,03/09/2023,London,Warehouse C - London,Furniture,21,227.59,4779.39,Same-Day,1,3,Late,N,1,64.7
+ORD-0158,11/06/2023,South England,Warehouse C - London,Furniture,30,317.05,9511.5,Same-Day,1,4,Failed,Y,1,73.9
+ORD-0159,25/01/2023,Scotland,Warehouse D - Edinburgh,Clothing,28,83.85,2347.8,Same-Day,1,3,Late,N,2,77.9
+ORD-0160,06/04/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,16,144.57,2313.12,Standard,5,6,Late,Y,1,56.5
+ORD-0161,03/04/2023,Midlands,Warehouse B - Birmingham,Clothing,18,45.85,825.3,Same-Day,1,1,On Time,N,4,44.6
+ORD-0162,17/08/2023,Wales,Warehouse E - Cardiff,Electronics,2,385.26,770.52,Standard,5,6,Late,N,3,96.4
+ORD-0163,27/07/2023,London,Warehouse C - London,Electronics,12,295.5,3546,Express,2,2,On Time,Y,5,86.2
+ORD-0164,01/05/2023,Wales,Warehouse E - Cardiff,Clothing,25,82.74,2068.5,Standard,5,9,Failed,Y,1,80.5
+ORD-0165,09/02/2023,Midlands,Warehouse B - Birmingham,Clothing,19,29.46,559.74,Standard,5,5,On Time,N,5,56.5
+ORD-0166,15/10/2023,North England,Warehouse A - Manchester,Electronics,4,189.95,759.8,Standard,5,5,On Time,N,4,51.7
+ORD-0167,07/02/2023,London,Warehouse C - London,Food & Grocery,15,12.77,191.55,Standard,5,10,Failed,N,2,85
+ORD-0168,09/10/2023,London,Warehouse C - London,Furniture,18,303.25,5458.5,Express,2,2,On Time,N,5,70.5
+ORD-0169,13/04/2023,South England,Warehouse C - London,Clothing,26,29.58,769.08,Standard,5,5,On Time,N,4,87.7
+ORD-0170,14/02/2023,London,Warehouse C - London,Food & Grocery,3,18.92,56.76,Express,2,4,Late,N,3,95
+ORD-0171,25/11/2023,London,Warehouse C - London,Electronics,3,268.99,806.97,Same-Day,1,1,On Time,N,5,83.8
+ORD-0172,10/08/2023,Scotland,Warehouse D - Edinburgh,Electronics,17,462.5,7862.5,Same-Day,1,1,On Time,N,4,71.6
+ORD-0173,23/09/2023,South England,Warehouse C - London,Furniture,29,298.83,8666.07,Standard,5,5,On Time,N,4,62.8
+ORD-0174,25/11/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,6,31.63,189.78,Standard,5,5,On Time,N,5,86.8
+ORD-0175,15/01/2023,South England,Warehouse C - London,Sports & Outdoors,3,28.18,84.54,Standard,5,6,Late,N,3,82.5
+ORD-0176,18/11/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,18,18.04,324.72,Standard,5,5,On Time,N,5,83
+ORD-0177,14/08/2023,South England,Warehouse C - London,Electronics,14,283.39,3967.46,Standard,5,5,On Time,N,5,67.1
+ORD-0178,08/03/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,25,86.7,2167.5,Same-Day,1,1,On Time,N,4,86.3
+ORD-0179,16/07/2023,South England,Warehouse C - London,Electronics,28,338.46,9476.88,Standard,5,7,Late,Y,2,68.7
+ORD-0180,13/09/2023,Scotland,Warehouse D - Edinburgh,Clothing,17,64.02,1088.34,Express,2,2,On Time,N,4,95.5
+ORD-0181,25/01/2023,Midlands,Warehouse B - Birmingham,Clothing,2,44.54,89.08,Express,2,4,Late,N,2,66.9
+ORD-0182,16/05/2023,North England,Warehouse A - Manchester,Electronics,24,233.63,5607.12,Standard,5,5,On Time,Y,5,58.1
+ORD-0183,19/08/2023,Midlands,Warehouse B - Birmingham,Clothing,25,72.73,1818.25,Standard,5,6,Late,N,1,77.1
+ORD-0184,13/10/2023,North England,Warehouse A - Manchester,Clothing,12,94.27,1131.24,Same-Day,1,1,On Time,N,3,49
+ORD-0185,22/08/2023,North England,Warehouse A - Manchester,Clothing,5,78.66,393.3,Standard,5,5,On Time,N,4,63.2
+ORD-0186,22/06/2023,London,Warehouse C - London,Furniture,17,679.8,11556.6,Standard,5,6,Late,Y,3,78.6
+ORD-0187,26/10/2023,Midlands,Warehouse B - Birmingham,Furniture,10,657.73,6577.3,Same-Day,1,3,Late,Y,2,72.6
+ORD-0188,23/10/2023,London,Warehouse C - London,Furniture,8,604.98,4839.84,Express,2,2,On Time,N,5,80.4
+ORD-0189,17/01/2023,London,Warehouse C - London,Electronics,19,478.25,9086.75,Express,2,2,On Time,N,4,63.8
+ORD-0190,30/08/2023,Wales,Warehouse E - Cardiff,Clothing,28,104.08,2914.24,Express,2,3,Late,N,2,91.1
+ORD-0191,30/03/2023,London,Warehouse C - London,Food & Grocery,15,46.05,690.75,Standard,5,5,On Time,N,5,72
+ORD-0192,09/04/2023,Scotland,Warehouse D - Edinburgh,Furniture,8,295.3,2362.4,Express,2,6,Failed,N,2,78.7
+ORD-0193,03/09/2023,Wales,Warehouse E - Cardiff,Furniture,12,492.34,5908.08,Standard,5,7,Late,Y,2,97.1
+ORD-0194,26/06/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,25,164.83,4120.75,Standard,5,5,On Time,N,4,78.4
+ORD-0195,14/04/2023,Midlands,Warehouse B - Birmingham,Clothing,27,71.55,1931.85,Standard,5,6,Late,Y,3,82
+ORD-0196,29/09/2023,Scotland,Warehouse D - Edinburgh,Clothing,8,81.98,655.84,Express,2,2,On Time,N,4,71.5
+ORD-0197,22/03/2023,London,Warehouse C - London,Electronics,14,354.21,4958.94,Express,2,2,On Time,N,5,90.8
+ORD-0198,15/02/2023,South England,Warehouse C - London,Clothing,21,75.28,1580.88,Standard,5,6,Late,N,4,78.7
+ORD-0199,19/01/2023,South England,Warehouse C - London,Sports & Outdoors,27,91.46,2469.42,Standard,5,9,Failed,N,2,77.3
+ORD-0200,24/02/2023,London,Warehouse C - London,Electronics,30,492.86,14785.8,Express,2,7,Failed,Y,1,70
+ORD-0201,09/04/2023,London,Warehouse C - London,Sports & Outdoors,26,40.28,1047.28,Standard,5,5,On Time,N,4,65.7
+ORD-0202,09/04/2023,Wales,Warehouse E - Cardiff,Furniture,6,527.67,3166.02,Express,2,2,On Time,N,4,88.5
+ORD-0203,02/09/2023,Midlands,Warehouse B - Birmingham,Electronics,11,473.05,5203.55,Same-Day,1,1,On Time,N,4,40.3
+ORD-0204,14/05/2023,South England,Warehouse C - London,Food & Grocery,21,21.18,444.78,Express,2,3,Late,N,1,68.3
+ORD-0205,09/06/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,23,41.13,945.99,Same-Day,1,1,On Time,N,4,96.6
+ORD-0206,07/11/2023,North England,Warehouse A - Manchester,Electronics,12,254.66,3055.92,Express,2,2,On Time,N,5,64.7
+ORD-0207,11/02/2023,South England,Warehouse C - London,Clothing,17,61.91,1052.47,Express,2,2,On Time,N,3,84.6
+ORD-0208,18/03/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,6,19.77,118.62,Express,2,2,On Time,N,5,85.1
+ORD-0209,21/08/2023,North England,Warehouse A - Manchester,Food & Grocery,5,28.1,140.5,Express,2,2,On Time,N,5,60.6
+ORD-0210,22/04/2023,Wales,Warehouse E - Cardiff,Clothing,19,22.67,430.73,Express,2,3,Late,N,1,82.3
+ORD-0211,27/05/2023,London,Warehouse C - London,Sports & Outdoors,14,52.4,733.6,Standard,5,6,Late,N,4,64.7
+ORD-0212,13/07/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,13,34.44,447.72,Standard,5,8,Failed,Y,2,83.4
+ORD-0213,07/03/2023,North England,Warehouse A - Manchester,Sports & Outdoors,24,196.17,4708.08,Standard,5,7,Late,N,2,77.6
+ORD-0214,28/04/2023,Wales,Warehouse E - Cardiff,Clothing,8,63.37,506.96,Standard,5,5,On Time,N,5,74.5
+ORD-0215,09/01/2023,North England,Warehouse A - Manchester,Furniture,8,244.26,1954.08,Express,2,2,On Time,N,5,44.5
+ORD-0216,30/04/2023,North England,Warehouse A - Manchester,Furniture,18,252.09,4537.62,Standard,5,5,On Time,N,4,78.9
+ORD-0217,03/11/2023,London,Warehouse C - London,Furniture,25,570.77,14269.25,Standard,5,5,On Time,N,5,71.2
+ORD-0218,30/10/2023,South England,Warehouse C - London,Clothing,29,92.2,2673.8,Standard,5,6,Late,N,1,66.1
+ORD-0219,26/09/2023,South England,Warehouse C - London,Food & Grocery,11,36.33,399.63,Standard,5,5,On Time,N,5,74.3
+ORD-0220,15/03/2023,South England,Warehouse C - London,Clothing,26,63.62,1654.12,Same-Day,1,1,On Time,N,5,62
+ORD-0221,10/02/2023,Midlands,Warehouse B - Birmingham,Clothing,30,62.23,1866.9,Standard,5,5,On Time,N,3,56.7
+ORD-0222,07/02/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,7,41.21,288.47,Standard,5,6,Late,Y,2,66.4
+ORD-0223,19/04/2023,London,Warehouse C - London,Clothing,30,34.95,1048.5,Same-Day,1,3,Late,N,4,86
+ORD-0224,03/05/2023,Wales,Warehouse E - Cardiff,Furniture,18,325.13,5852.34,Standard,5,5,On Time,N,4,78.2
+ORD-0225,29/08/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,25,171.15,4278.75,Standard,5,5,On Time,N,5,81.1
+ORD-0226,27/10/2023,South England,Warehouse C - London,Electronics,19,382.41,7265.79,Standard,5,5,On Time,N,5,70.3
+ORD-0227,22/06/2023,South England,Warehouse C - London,Food & Grocery,9,39.35,354.15,Same-Day,1,3,Late,N,2,77.1
+ORD-0228,07/10/2023,Wales,Warehouse E - Cardiff,Clothing,16,34.33,549.28,Standard,5,10,Failed,N,1,95.8
+ORD-0229,25/01/2023,London,Warehouse C - London,Electronics,25,82.68,2067,Express,2,2,On Time,Y,4,64.8
+ORD-0230,23/11/2023,South England,Warehouse C - London,Food & Grocery,22,47.03,1034.66,Standard,5,6,Late,Y,2,91.9
+ORD-0231,02/10/2023,Midlands,Warehouse B - Birmingham,Electronics,10,87.2,872,Express,2,3,Late,N,4,76.6
+ORD-0232,09/04/2023,North England,Warehouse A - Manchester,Electronics,20,301.11,6022.2,Standard,5,5,On Time,N,4,76.7
+ORD-0233,26/04/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,10,35.78,357.8,Same-Day,1,2,Late,N,3,78.2
+ORD-0234,29/01/2023,North England,Warehouse A - Manchester,Clothing,21,15.99,335.79,Express,2,2,On Time,N,5,47.7
+ORD-0235,28/09/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,30,27.66,829.8,Standard,5,8,Failed,N,1,76.1
+ORD-0236,06/10/2023,North England,Warehouse A - Manchester,Electronics,19,356.41,6771.79,Same-Day,1,4,Failed,Y,1,48.1
+ORD-0237,09/02/2023,North England,Warehouse A - Manchester,Sports & Outdoors,10,49.24,492.4,Express,2,4,Late,N,3,50.8
+ORD-0238,19/12/2023,South England,Warehouse C - London,Furniture,24,154.9,3717.6,Standard,5,5,On Time,N,4,86.1
+ORD-0239,01/11/2023,North England,Warehouse A - Manchester,Food & Grocery,13,48.6,631.8,Express,2,2,On Time,N,5,54.7
+ORD-0240,06/04/2023,South England,Warehouse C - London,Food & Grocery,22,31.36,689.92,Standard,5,7,Late,Y,2,73.3
+ORD-0241,21/11/2023,North England,Warehouse A - Manchester,Clothing,5,92.66,463.3,Standard,5,5,On Time,Y,4,54.3
+ORD-0242,06/04/2023,Midlands,Warehouse B - Birmingham,Clothing,14,62.13,869.82,Standard,5,5,On Time,Y,4,65
+ORD-0243,17/07/2023,North England,Warehouse A - Manchester,Food & Grocery,1,18.13,18.13,Standard,5,5,On Time,N,5,57.5
+ORD-0244,14/07/2023,London,Warehouse C - London,Food & Grocery,6,11.25,67.5,Standard,5,5,On Time,Y,4,70.5
+ORD-0245,09/05/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,8,37.44,299.52,Standard,5,5,On Time,N,4,62.3
+ORD-0246,14/07/2023,North England,Warehouse A - Manchester,Clothing,26,105.53,2743.78,Express,2,2,On Time,N,5,59.8
+ORD-0247,22/12/2023,Scotland,Warehouse D - Edinburgh,Clothing,7,65.3,457.1,Express,2,2,On Time,N,5,75.2
+ORD-0248,16/06/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,13,70.45,915.85,Express,2,2,On Time,N,4,92.8
+ORD-0249,14/01/2023,London,Warehouse C - London,Electronics,24,273.88,6573.12,Express,2,2,On Time,N,5,84.8
+ORD-0250,13/09/2023,London,Warehouse C - London,Furniture,5,543.34,2716.7,Standard,5,6,Late,N,3,68.5
+ORD-0251,25/07/2023,North England,Warehouse A - Manchester,Sports & Outdoors,18,111.19,2001.42,Standard,5,6,Late,N,3,81.4
+ORD-0252,23/11/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,30,35.3,1059,Standard,5,6,Late,N,3,74.6
+ORD-0253,24/07/2023,North England,Warehouse A - Manchester,Sports & Outdoors,25,79.69,1992.25,Express,2,2,On Time,N,4,75.8
+ORD-0254,24/04/2023,Wales,Warehouse E - Cardiff,Food & Grocery,15,21.84,327.6,Express,2,3,Late,N,1,83.4
+ORD-0255,13/02/2023,London,Warehouse C - London,Food & Grocery,4,42.41,169.64,Standard,5,5,On Time,N,5,85.6
+ORD-0256,23/12/2023,Midlands,Warehouse B - Birmingham,Clothing,15,48.49,727.35,Standard,5,6,Late,Y,3,53.5
+ORD-0257,05/05/2023,Scotland,Warehouse D - Edinburgh,Furniture,17,222.12,3776.04,Standard,5,5,On Time,N,4,74.6
+ORD-0258,10/08/2023,Midlands,Warehouse B - Birmingham,Electronics,13,92.26,1199.38,Express,2,2,On Time,N,4,67.6
+ORD-0259,02/02/2023,Wales,Warehouse E - Cardiff,Clothing,19,25.68,487.92,Express,2,2,On Time,N,5,95.3
+ORD-0260,24/11/2023,South England,Warehouse C - London,Sports & Outdoors,11,127.45,1401.95,Standard,5,6,Late,N,3,81.4
+ORD-0261,02/06/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,30,130.61,3918.3,Express,2,2,On Time,N,4,72.5
+ORD-0262,03/08/2023,South England,Warehouse C - London,Furniture,20,196.51,3930.2,Standard,5,5,On Time,N,5,73.4
+ORD-0263,08/09/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,10,45.25,452.5,Express,2,2,On Time,Y,4,79.1
+ORD-0264,15/10/2023,North England,Warehouse A - Manchester,Electronics,17,354.29,6022.93,Express,2,2,On Time,N,4,58.4
+ORD-0265,23/04/2023,South England,Warehouse C - London,Food & Grocery,10,6.47,64.7,Express,2,2,On Time,N,5,67.9
+ORD-0266,21/10/2023,London,Warehouse C - London,Food & Grocery,4,17.06,68.24,Standard,5,10,Failed,Y,2,79
+ORD-0267,06/08/2023,London,Warehouse C - London,Clothing,4,92.28,369.12,Standard,5,5,On Time,N,3,82.9
+ORD-0268,02/03/2023,South England,Warehouse C - London,Sports & Outdoors,25,166.14,4153.5,Standard,5,6,Late,N,3,67.3
+ORD-0269,16/04/2023,Scotland,Warehouse D - Edinburgh,Clothing,27,36.73,991.71,Express,2,2,On Time,N,5,71.7
+ORD-0270,17/05/2023,South England,Warehouse C - London,Furniture,28,460.09,12882.52,Standard,5,7,Late,Y,3,91.5
+ORD-0271,02/12/2023,Midlands,Warehouse B - Birmingham,Electronics,5,374.6,1873,Standard,5,5,On Time,N,4,46
+ORD-0272,20/11/2023,London,Warehouse C - London,Clothing,9,80.92,728.28,Standard,5,5,On Time,N,5,73.1
+ORD-0273,08/07/2023,Midlands,Warehouse B - Birmingham,Furniture,15,765.18,11477.7,Express,2,2,On Time,N,5,54.7
+ORD-0274,03/07/2023,Wales,Warehouse E - Cardiff,Food & Grocery,28,7.85,219.8,Express,2,2,On Time,N,4,85.5
+ORD-0275,23/10/2023,South England,Warehouse C - London,Sports & Outdoors,5,121.91,609.55,Standard,5,5,On Time,N,3,77
+ORD-0276,05/03/2023,North England,Warehouse A - Manchester,Furniture,30,700.36,21010.8,Standard,5,5,On Time,N,4,59.9
+ORD-0277,23/03/2023,Wales,Warehouse E - Cardiff,Electronics,28,471.74,13208.72,Express,2,3,Late,Y,2,77.9
+ORD-0278,06/06/2023,London,Warehouse C - London,Electronics,24,373.77,8970.48,Standard,5,6,Late,N,1,68.2
+ORD-0279,15/12/2023,Midlands,Warehouse B - Birmingham,Electronics,15,83.9,1258.5,Standard,5,7,Late,N,2,71.3
+ORD-0280,22/02/2023,North England,Warehouse A - Manchester,Electronics,4,211.61,846.44,Standard,5,5,On Time,N,5,79.6
+ORD-0281,29/09/2023,North England,Warehouse A - Manchester,Sports & Outdoors,19,21.53,409.07,Standard,5,5,On Time,N,5,69.3
+ORD-0282,22/04/2023,South England,Warehouse C - London,Clothing,3,109.14,327.42,Express,2,2,On Time,N,4,64.9
+ORD-0283,27/11/2023,Midlands,Warehouse B - Birmingham,Furniture,3,273.72,821.16,Standard,5,6,Late,Y,4,67
+ORD-0284,16/04/2023,North England,Warehouse A - Manchester,Sports & Outdoors,17,129.25,2197.25,Same-Day,1,1,On Time,N,5,48.5
+ORD-0285,04/05/2023,London,Warehouse C - London,Clothing,16,82,1312,Standard,5,8,Failed,Y,1,62.5
+ORD-0286,04/08/2023,South England,Warehouse C - London,Clothing,12,72.37,868.44,Express,2,2,On Time,N,3,66
+ORD-0287,31/01/2023,Scotland,Warehouse D - Edinburgh,Electronics,26,247.15,6425.9,Standard,5,6,Late,N,2,78.3
+ORD-0288,20/03/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,9,8.76,78.84,Standard,5,8,Failed,N,1,43.6
+ORD-0289,29/11/2023,South England,Warehouse C - London,Food & Grocery,22,33.94,746.68,Express,2,2,On Time,N,4,70.9
+ORD-0290,10/11/2023,South England,Warehouse C - London,Sports & Outdoors,20,29.91,598.2,Standard,5,6,Late,Y,1,83.3
+ORD-0291,27/06/2023,North England,Warehouse A - Manchester,Electronics,17,297.23,5052.91,Standard,5,5,On Time,N,5,77
+ORD-0292,16/01/2023,London,Warehouse C - London,Furniture,11,664.98,7314.78,Standard,5,5,On Time,N,5,69.5
+ORD-0293,13/09/2023,North England,Warehouse A - Manchester,Food & Grocery,28,30.51,854.28,Standard,5,5,On Time,N,5,56.5
+ORD-0294,23/01/2023,Wales,Warehouse E - Cardiff,Clothing,28,105.61,2957.08,Standard,5,5,On Time,N,4,77.1
+ORD-0295,02/12/2023,London,Warehouse C - London,Sports & Outdoors,14,60.41,845.74,Express,2,5,Failed,Y,2,68.7
+ORD-0296,27/01/2023,Scotland,Warehouse D - Edinburgh,Electronics,6,173.74,1042.44,Express,2,2,On Time,N,5,85
+ORD-0297,14/02/2023,London,Warehouse C - London,Furniture,18,419.72,7554.96,Standard,5,5,On Time,N,5,72.9
+ORD-0298,11/04/2023,South England,Warehouse C - London,Clothing,24,109.55,2629.2,Same-Day,1,1,On Time,Y,4,86.6
+ORD-0299,05/01/2023,South England,Warehouse C - London,Clothing,11,15.15,166.65,Express,2,5,Failed,N,1,83
+ORD-0300,31/01/2023,Midlands,Warehouse B - Birmingham,Clothing,5,89.72,448.6,Standard,5,8,Failed,N,1,44.2
+ORD-0301,13/02/2023,Wales,Warehouse E - Cardiff,Clothing,19,25.04,475.76,Same-Day,1,4,Failed,Y,1,73.9
+ORD-0302,14/05/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,28,76.7,2147.6,Standard,5,6,Late,N,2,76
+ORD-0303,27/10/2023,South England,Warehouse C - London,Electronics,4,145.27,581.08,Standard,5,5,On Time,N,5,65.8
+ORD-0304,16/05/2023,London,Warehouse C - London,Clothing,28,27.59,772.52,Standard,5,6,Late,N,3,65.5
+ORD-0305,16/02/2023,North England,Warehouse A - Manchester,Sports & Outdoors,23,64.68,1487.64,Standard,5,5,On Time,N,4,56
+ORD-0306,20/08/2023,London,Warehouse C - London,Electronics,18,394.19,7095.42,Standard,5,5,On Time,N,4,68.7
+ORD-0307,08/03/2023,North England,Warehouse A - Manchester,Sports & Outdoors,7,168.26,1177.82,Same-Day,1,2,Late,N,2,56.8
+ORD-0308,03/02/2023,South England,Warehouse C - London,Sports & Outdoors,7,182.45,1277.15,Standard,5,5,On Time,N,5,75.5
+ORD-0309,28/03/2023,South England,Warehouse C - London,Electronics,30,321.03,9630.9,Standard,5,5,On Time,Y,5,88.8
+ORD-0310,24/05/2023,South England,Warehouse C - London,Clothing,15,107.76,1616.4,Standard,5,5,On Time,N,4,61.2
+ORD-0311,24/05/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,13,11.18,145.34,Standard,5,7,Late,N,3,49
+ORD-0312,03/07/2023,London,Warehouse C - London,Furniture,16,481.16,7698.56,Same-Day,1,5,Failed,Y,1,77
+ORD-0313,24/05/2023,South England,Warehouse C - London,Clothing,2,99.91,199.82,Standard,5,5,On Time,N,4,76.5
+ORD-0314,01/10/2023,South England,Warehouse C - London,Clothing,27,98.08,2648.16,Standard,5,7,Late,N,2,85.8
+ORD-0315,30/03/2023,London,Warehouse C - London,Clothing,6,39.84,239.04,Same-Day,1,3,Late,N,2,71.1
+ORD-0316,14/03/2023,Wales,Warehouse E - Cardiff,Clothing,19,114.58,2177.02,Express,2,4,Late,N,2,94.3
+ORD-0317,05/11/2023,South England,Warehouse C - London,Electronics,8,88.37,706.96,Standard,5,5,On Time,N,5,76.7
+ORD-0318,15/06/2023,South England,Warehouse C - London,Electronics,2,89.2,178.4,Express,2,6,Failed,N,2,80.5
+ORD-0319,06/12/2023,London,Warehouse C - London,Sports & Outdoors,13,125.48,1631.24,Standard,5,5,On Time,N,5,71.8
+ORD-0320,12/06/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,6,36.82,220.92,Standard,5,8,Failed,N,1,65.3
+ORD-0321,19/12/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,10,42.92,429.2,Standard,5,9,Failed,N,1,91.1
+ORD-0322,05/11/2023,London,Warehouse C - London,Sports & Outdoors,11,185.79,2043.69,Standard,5,5,On Time,N,5,93.9
+ORD-0323,13/06/2023,North England,Warehouse A - Manchester,Furniture,6,545.33,3271.98,Standard,5,7,Late,N,3,83.3
+ORD-0324,21/12/2023,South England,Warehouse C - London,Electronics,3,227.2,681.6,Standard,5,6,Late,Y,2,87.5
+ORD-0325,13/07/2023,Midlands,Warehouse B - Birmingham,Electronics,12,309.33,3711.96,Standard,5,5,On Time,N,5,44.6
+ORD-0326,18/01/2023,Wales,Warehouse E - Cardiff,Electronics,10,88.43,884.3,Standard,5,5,On Time,N,5,77.6
+ORD-0327,17/02/2023,South England,Warehouse C - London,Electronics,11,329.49,3624.39,Same-Day,1,2,Late,Y,4,81.5
+ORD-0328,21/02/2023,South England,Warehouse C - London,Sports & Outdoors,11,57,627,Standard,5,6,Late,N,3,66.6
+ORD-0329,26/01/2023,South England,Warehouse C - London,Clothing,13,75.04,975.52,Standard,5,5,On Time,N,4,89.4
+ORD-0330,13/04/2023,South England,Warehouse C - London,Furniture,4,118.01,472.04,Express,2,2,On Time,N,5,66
+ORD-0331,05/12/2023,South England,Warehouse C - London,Clothing,9,24.57,221.13,Standard,5,5,On Time,N,4,79
+ORD-0332,26/04/2023,Midlands,Warehouse B - Birmingham,Clothing,27,43.2,1166.4,Standard,5,6,Late,N,1,42.8
+ORD-0333,29/10/2023,South England,Warehouse C - London,Food & Grocery,8,29.91,239.28,Same-Day,1,4,Failed,Y,1,89.4
+ORD-0334,01/09/2023,London,Warehouse C - London,Food & Grocery,10,8.55,85.5,Same-Day,1,3,Late,N,4,91.6
+ORD-0335,03/03/2023,London,Warehouse C - London,Furniture,25,414.33,10358.25,Express,2,2,On Time,N,4,93.2
+ORD-0336,14/04/2023,North England,Warehouse A - Manchester,Electronics,27,343.44,9272.88,Express,2,2,On Time,N,5,77.5
+ORD-0337,16/06/2023,North England,Warehouse A - Manchester,Clothing,28,44,1232,Standard,5,7,Late,N,3,60.6
+ORD-0338,17/03/2023,Midlands,Warehouse B - Birmingham,Clothing,19,76.73,1457.87,Standard,5,9,Failed,N,1,74.1
+ORD-0339,26/06/2023,North England,Warehouse A - Manchester,Clothing,29,58.14,1686.06,Standard,5,5,On Time,N,3,57.2
+ORD-0340,22/12/2023,South England,Warehouse C - London,Electronics,13,96.29,1251.77,Express,2,2,On Time,N,5,91.1
+ORD-0341,05/06/2023,London,Warehouse C - London,Sports & Outdoors,10,70.46,704.6,Standard,5,6,Late,Y,3,77.2
+ORD-0342,14/06/2023,North England,Warehouse A - Manchester,Sports & Outdoors,9,151.18,1360.62,Standard,5,5,On Time,N,5,67.2
+ORD-0343,11/07/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,27,7.53,203.31,Standard,5,5,On Time,N,4,75.6
+ORD-0344,30/03/2023,London,Warehouse C - London,Food & Grocery,7,44.38,310.66,Express,2,2,On Time,Y,3,67
+ORD-0345,26/08/2023,Midlands,Warehouse B - Birmingham,Electronics,17,246.72,4194.24,Standard,5,6,Late,Y,2,81.5
+ORD-0346,10/10/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,12,81.96,983.52,Standard,5,5,On Time,N,3,77.7
+ORD-0347,20/04/2023,North England,Warehouse A - Manchester,Electronics,28,172.97,4843.16,Same-Day,1,1,On Time,N,5,50.1
+ORD-0348,31/08/2023,London,Warehouse C - London,Sports & Outdoors,30,43.82,1314.6,Express,2,4,Late,Y,3,66.1
+ORD-0349,21/05/2023,London,Warehouse C - London,Furniture,14,726.84,10175.76,Express,2,2,On Time,N,4,89.8
+ORD-0350,04/01/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,17,49.97,849.49,Express,2,4,Late,N,2,83.5
+ORD-0351,22/06/2023,South England,Warehouse C - London,Furniture,9,548.42,4935.78,Standard,5,5,On Time,N,5,90.2
+ORD-0352,30/01/2023,South England,Warehouse C - London,Electronics,26,440.07,11441.82,Express,2,2,On Time,N,4,88.4
+ORD-0353,03/08/2023,North England,Warehouse A - Manchester,Food & Grocery,13,22.47,292.11,Standard,5,5,On Time,N,4,41.6
+ORD-0354,01/09/2023,Wales,Warehouse E - Cardiff,Clothing,30,113.77,3413.1,Standard,5,5,On Time,N,5,80.4
+ORD-0355,13/05/2023,Scotland,Warehouse D - Edinburgh,Clothing,24,99.88,2397.12,Standard,5,5,On Time,N,4,92.1
+ORD-0356,07/06/2023,North England,Warehouse A - Manchester,Clothing,14,97.75,1368.5,Express,2,2,On Time,N,5,54.9
+ORD-0357,14/11/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,3,105,315,Express,2,2,On Time,N,5,48.8
+ORD-0358,13/04/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,11,93.65,1030.15,Standard,5,8,Failed,Y,1,65.6
+ORD-0359,20/11/2023,Wales,Warehouse E - Cardiff,Furniture,6,319.39,1916.34,Standard,5,5,On Time,N,5,71.7
+ORD-0360,15/02/2023,Scotland,Warehouse D - Edinburgh,Electronics,5,338.08,1690.4,Express,2,2,On Time,N,4,88.4
+ORD-0361,08/01/2023,North England,Warehouse A - Manchester,Electronics,29,215.33,6244.57,Standard,5,5,On Time,N,5,77.5
+ORD-0362,08/03/2023,South England,Warehouse C - London,Furniture,4,368.49,1473.96,Standard,5,5,On Time,N,4,80.6
+ORD-0363,22/06/2023,South England,Warehouse C - London,Furniture,14,721.58,10102.12,Express,2,2,On Time,N,4,94.8
+ORD-0364,26/07/2023,South England,Warehouse C - London,Sports & Outdoors,1,61.12,61.12,Same-Day,1,1,On Time,N,5,85.5
+ORD-0365,20/01/2023,South England,Warehouse C - London,Clothing,13,107.04,1391.52,Express,2,2,On Time,Y,5,69
+ORD-0366,20/12/2023,Wales,Warehouse E - Cardiff,Furniture,4,391.74,1566.96,Standard,5,5,On Time,N,4,81
+ORD-0367,05/12/2023,Wales,Warehouse E - Cardiff,Food & Grocery,4,34.81,139.24,Standard,5,6,Late,Y,3,77.8
+ORD-0368,28/02/2023,North England,Warehouse A - Manchester,Furniture,26,174.38,4533.88,Standard,5,5,On Time,N,5,48.9
+ORD-0369,21/01/2023,South England,Warehouse C - London,Furniture,18,447.45,8054.1,Standard,5,9,Failed,Y,1,67.3
+ORD-0370,09/12/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,16,46.85,749.6,Express,2,2,On Time,N,4,72.6
+ORD-0371,01/06/2023,South England,Warehouse C - London,Clothing,9,63.75,573.75,Same-Day,1,1,On Time,Y,4,63.5
+ORD-0372,18/02/2023,London,Warehouse C - London,Clothing,28,94.61,2649.08,Express,2,4,Late,N,1,61.6
+ORD-0373,17/02/2023,Midlands,Warehouse B - Birmingham,Clothing,12,100.57,1206.84,Express,2,2,On Time,N,4,48.2
+ORD-0374,29/11/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,29,163.44,4739.76,Express,2,2,On Time,Y,5,45.1
+ORD-0375,19/10/2023,South England,Warehouse C - London,Clothing,22,61.01,1342.22,Express,2,4,Late,N,3,81.4
+ORD-0376,05/09/2023,London,Warehouse C - London,Furniture,30,441.69,13250.7,Same-Day,1,2,Late,Y,3,91.1
+ORD-0377,23/10/2023,North England,Warehouse A - Manchester,Sports & Outdoors,24,121.7,2920.8,Standard,5,6,Late,N,2,84
+ORD-0378,08/05/2023,Wales,Warehouse E - Cardiff,Electronics,16,225.21,3603.36,Express,2,2,On Time,N,5,89.6
+ORD-0379,22/03/2023,London,Warehouse C - London,Electronics,17,436.52,7420.84,Express,2,5,Failed,Y,1,89.8
+ORD-0380,25/04/2023,South England,Warehouse C - London,Sports & Outdoors,18,135.8,2444.4,Standard,5,5,On Time,N,5,74.1
+ORD-0381,02/03/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,16,154.14,2466.24,Standard,5,5,On Time,Y,5,40.8
+ORD-0382,23/11/2023,London,Warehouse C - London,Furniture,10,723.08,7230.8,Same-Day,1,2,Late,N,2,79.7
+ORD-0383,19/06/2023,London,Warehouse C - London,Sports & Outdoors,18,158.13,2846.34,Express,2,3,Late,N,2,81
+ORD-0384,01/07/2023,North England,Warehouse A - Manchester,Furniture,27,543.56,14676.12,Standard,5,5,On Time,N,4,76
+ORD-0385,29/07/2023,London,Warehouse C - London,Food & Grocery,4,16.44,65.76,Express,2,2,On Time,N,4,66.9
+ORD-0386,01/08/2023,London,Warehouse C - London,Electronics,2,469.18,938.36,Standard,5,6,Late,N,2,89.3
+ORD-0387,13/09/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,1,115.47,115.47,Standard,5,9,Failed,N,1,71.4
+ORD-0388,24/10/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,6,151.49,908.94,Standard,5,5,On Time,N,5,45.8
+ORD-0389,21/12/2023,Midlands,Warehouse B - Birmingham,Clothing,25,41.07,1026.75,Same-Day,1,1,On Time,N,5,57.9
+ORD-0390,20/09/2023,North England,Warehouse A - Manchester,Food & Grocery,10,42.94,429.4,Same-Day,1,1,On Time,N,5,64.7
+ORD-0391,18/12/2023,South England,Warehouse C - London,Clothing,12,111.73,1340.76,Express,2,3,Late,N,1,64.6
+ORD-0392,30/06/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,18,26.62,479.16,Express,2,3,Late,N,3,86.5
+ORD-0393,07/01/2023,London,Warehouse C - London,Clothing,17,26.18,445.06,Express,2,2,On Time,Y,4,73.3
+ORD-0394,16/03/2023,London,Warehouse C - London,Sports & Outdoors,27,31.17,841.59,Express,2,2,On Time,N,4,87.5
+ORD-0395,15/10/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,28,15.09,422.52,Express,2,2,On Time,N,5,69.1
+ORD-0396,15/07/2023,Wales,Warehouse E - Cardiff,Furniture,13,391.6,5090.8,Standard,5,6,Late,N,1,92.9
+ORD-0397,15/08/2023,Wales,Warehouse E - Cardiff,Clothing,27,38.68,1044.36,Same-Day,1,3,Late,N,2,88.4
+ORD-0398,10/04/2023,Wales,Warehouse E - Cardiff,Electronics,10,268.5,2685,Express,2,2,On Time,N,5,98.5
+ORD-0399,16/05/2023,North England,Warehouse A - Manchester,Electronics,5,147.59,737.95,Standard,5,5,On Time,N,5,78.1
+ORD-0400,17/11/2023,North England,Warehouse A - Manchester,Sports & Outdoors,20,171.77,3435.4,Express,2,3,Late,N,1,53.6
+ORD-0401,24/09/2023,Wales,Warehouse E - Cardiff,Food & Grocery,3,40.38,121.14,Same-Day,1,2,Late,N,2,74.6
+ORD-0402,31/05/2023,London,Warehouse C - London,Furniture,7,765.22,5356.54,Standard,5,5,On Time,N,5,81.6
+ORD-0403,04/05/2023,Scotland,Warehouse D - Edinburgh,Electronics,29,349.75,10142.75,Standard,5,5,On Time,Y,5,96.6
+ORD-0404,12/05/2023,Midlands,Warehouse B - Birmingham,Furniture,18,606.78,10922.04,Standard,5,5,On Time,N,5,41.1
+ORD-0405,30/11/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,7,19.41,135.87,Standard,5,5,On Time,N,5,43.7
+ORD-0406,19/11/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,25,14.59,364.75,Standard,5,7,Late,Y,3,89.9
+ORD-0407,06/02/2023,London,Warehouse C - London,Furniture,24,580.23,13925.52,Standard,5,6,Late,Y,1,60.8
+ORD-0408,27/04/2023,South England,Warehouse C - London,Clothing,30,42.16,1264.8,Standard,5,6,Late,N,1,73.6
+ORD-0409,13/11/2023,Wales,Warehouse E - Cardiff,Food & Grocery,3,39.02,117.06,Express,2,3,Late,Y,4,87
+ORD-0410,14/02/2023,North England,Warehouse A - Manchester,Furniture,10,635.69,6356.9,Standard,5,5,On Time,N,5,59.7
+ORD-0411,07/10/2023,Scotland,Warehouse D - Edinburgh,Electronics,10,483.26,4832.6,Standard,5,6,Late,N,3,74.2
+ORD-0412,11/10/2023,Wales,Warehouse E - Cardiff,Clothing,28,73.28,2051.84,Same-Day,1,1,On Time,N,5,73.6
+ORD-0413,26/06/2023,London,Warehouse C - London,Clothing,7,58.33,408.31,Express,2,2,On Time,N,4,82.6
+ORD-0414,18/10/2023,London,Warehouse C - London,Electronics,28,102.84,2879.52,Standard,5,10,Failed,Y,1,86.3
+ORD-0415,12/04/2023,North England,Warehouse A - Manchester,Furniture,24,506.42,12154.08,Standard,5,5,On Time,N,4,82.8
+ORD-0416,06/09/2023,South England,Warehouse C - London,Electronics,15,217.91,3268.65,Standard,5,6,Late,Y,2,83.1
+ORD-0417,10/06/2023,London,Warehouse C - London,Sports & Outdoors,8,161.42,1291.36,Standard,5,6,Late,Y,2,84.9
+ORD-0418,17/08/2023,Wales,Warehouse E - Cardiff,Clothing,12,96.35,1156.2,Standard,5,5,On Time,N,3,84.1
+ORD-0419,11/04/2023,South England,Warehouse C - London,Sports & Outdoors,9,152.04,1368.36,Same-Day,1,3,Late,N,3,81.9
+ORD-0420,30/10/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,7,183.13,1281.91,Express,2,2,On Time,N,5,86
+ORD-0421,29/10/2023,London,Warehouse C - London,Clothing,24,105,2520,Standard,5,5,On Time,N,4,64.7
+ORD-0422,11/11/2023,North England,Warehouse A - Manchester,Clothing,22,32.41,713.02,Same-Day,1,1,On Time,N,5,63.1
+ORD-0423,05/09/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,12,27.28,327.36,Express,2,2,On Time,N,4,92.1
+ORD-0424,18/07/2023,Wales,Warehouse E - Cardiff,Food & Grocery,16,46.31,740.96,Express,2,2,On Time,N,4,95.6
+ORD-0425,15/05/2023,London,Warehouse C - London,Food & Grocery,19,29.5,560.5,Standard,5,6,Late,N,3,66.1
+ORD-0426,25/04/2023,London,Warehouse C - London,Food & Grocery,17,23.26,395.42,Standard,5,5,On Time,N,5,88.6
+ORD-0427,28/04/2023,North England,Warehouse A - Manchester,Sports & Outdoors,3,112.62,337.86,Standard,5,5,On Time,N,5,52.6
+ORD-0428,19/06/2023,London,Warehouse C - London,Furniture,24,179.34,4304.16,Standard,5,5,On Time,N,5,83.6
+ORD-0429,31/10/2023,Midlands,Warehouse B - Birmingham,Clothing,6,29.15,174.9,Standard,5,8,Failed,Y,1,63.1
+ORD-0430,16/10/2023,London,Warehouse C - London,Food & Grocery,21,5.84,122.64,Standard,5,6,Late,Y,1,85.2
+ORD-0431,29/03/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,8,169.47,1355.76,Same-Day,1,3,Late,N,1,67
+ORD-0432,25/06/2023,Wales,Warehouse E - Cardiff,Clothing,30,62.61,1878.3,Express,2,2,On Time,N,4,87.1
+ORD-0433,03/08/2023,South England,Warehouse C - London,Sports & Outdoors,27,46.92,1266.84,Standard,5,5,On Time,N,3,63.4
+ORD-0434,04/09/2023,London,Warehouse C - London,Food & Grocery,22,10.86,238.92,Standard,5,7,Late,N,3,81.1
+ORD-0435,23/01/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,23,28.84,663.32,Standard,5,7,Late,N,2,76.7
+ORD-0436,23/12/2023,Scotland,Warehouse D - Edinburgh,Furniture,19,168.4,3199.6,Express,2,2,On Time,N,5,73.9
+ORD-0437,07/04/2023,South England,Warehouse C - London,Sports & Outdoors,1,147.65,147.65,Standard,5,6,Late,Y,1,87.6
+ORD-0438,05/07/2023,Wales,Warehouse E - Cardiff,Furniture,4,208.35,833.4,Standard,5,5,On Time,N,4,88.9
+ORD-0439,15/04/2023,Midlands,Warehouse B - Birmingham,Clothing,14,72.97,1021.58,Express,2,2,On Time,N,5,65.1
+ORD-0440,23/07/2023,London,Warehouse C - London,Food & Grocery,24,11.21,269.04,Express,2,2,On Time,N,5,90.2
+ORD-0441,23/06/2023,London,Warehouse C - London,Electronics,26,311.24,8092.24,Standard,5,6,Late,Y,4,84.4
+ORD-0442,04/11/2023,North England,Warehouse A - Manchester,Electronics,14,117.02,1638.28,Standard,5,5,On Time,N,5,51.8
+ORD-0443,27/05/2023,London,Warehouse C - London,Clothing,23,116.17,2671.91,Express,2,3,Late,Y,2,62
+ORD-0444,23/09/2023,North England,Warehouse A - Manchester,Sports & Outdoors,10,55.05,550.5,Same-Day,1,2,Late,N,3,75.3
+ORD-0445,22/03/2023,Wales,Warehouse E - Cardiff,Clothing,3,119.67,359.01,Express,2,2,On Time,N,5,92.6
+ORD-0446,16/02/2023,Midlands,Warehouse B - Birmingham,Furniture,18,299.15,5384.7,Standard,5,8,Failed,Y,2,77.3
+ORD-0447,26/07/2023,South England,Warehouse C - London,Food & Grocery,19,5.21,98.99,Standard,5,5,On Time,N,5,66.1
+ORD-0448,12/05/2023,South England,Warehouse C - London,Electronics,29,305.92,8871.68,Standard,5,5,On Time,N,4,87.8
+ORD-0449,23/08/2023,Midlands,Warehouse B - Birmingham,Clothing,22,63.38,1394.36,Standard,5,5,On Time,N,3,66.4
+ORD-0450,28/04/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,26,76.83,1997.58,Express,2,3,Late,Y,3,97.7
+ORD-0451,25/06/2023,South England,Warehouse C - London,Electronics,3,312.91,938.73,Express,2,2,On Time,N,5,66.2
+ORD-0452,08/04/2023,South England,Warehouse C - London,Furniture,16,615.98,9855.68,Same-Day,1,1,On Time,N,4,68.2
+ORD-0453,24/02/2023,London,Warehouse C - London,Sports & Outdoors,4,185.63,742.52,Standard,5,6,Late,N,3,83.7
+ORD-0454,14/11/2023,Scotland,Warehouse D - Edinburgh,Electronics,11,286.78,3154.58,Standard,5,8,Failed,N,1,98.6
+ORD-0455,24/04/2023,London,Warehouse C - London,Sports & Outdoors,25,123.8,3095,Standard,5,7,Late,N,2,61.9
+ORD-0456,31/03/2023,Midlands,Warehouse B - Birmingham,Clothing,15,117.53,1762.95,Express,2,2,On Time,N,3,71.4
+ORD-0457,10/11/2023,South England,Warehouse C - London,Food & Grocery,28,16.69,467.32,Standard,5,5,On Time,N,5,79.2
+ORD-0458,25/12/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,25,21.75,543.75,Standard,5,5,On Time,N,4,78.4
+ORD-0459,19/05/2023,Scotland,Warehouse D - Edinburgh,Clothing,26,39.76,1033.76,Standard,5,5,On Time,N,5,82.5
+ORD-0460,13/09/2023,North England,Warehouse A - Manchester,Sports & Outdoors,5,199.2,996,Standard,5,5,On Time,N,5,78.2
+ORD-0461,23/07/2023,South England,Warehouse C - London,Food & Grocery,4,36.07,144.28,Express,2,4,Late,N,3,62.1
+ORD-0462,14/10/2023,Midlands,Warehouse B - Birmingham,Clothing,18,112.84,2031.12,Standard,5,5,On Time,N,5,51.6
+ORD-0463,29/11/2023,London,Warehouse C - London,Electronics,18,153.31,2759.58,Express,2,2,On Time,N,5,87.3
+ORD-0464,27/05/2023,Wales,Warehouse E - Cardiff,Sports & Outdoors,15,133.71,2005.65,Standard,5,5,On Time,N,4,74.2
+ORD-0465,06/02/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,3,12.29,36.87,Express,2,2,On Time,N,4,76.6
+ORD-0466,05/07/2023,Scotland,Warehouse D - Edinburgh,Clothing,24,76.63,1839.12,Standard,5,5,On Time,N,3,98
+ORD-0467,25/12/2023,Wales,Warehouse E - Cardiff,Furniture,24,156.05,3745.2,Same-Day,1,1,On Time,Y,5,74.8
+ORD-0468,12/02/2023,Scotland,Warehouse D - Edinburgh,Electronics,4,190.23,760.92,Standard,5,6,Late,N,2,74.5
+ORD-0469,09/03/2023,South England,Warehouse C - London,Clothing,17,103.04,1751.68,Express,2,3,Late,N,2,61
+ORD-0470,20/05/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,18,100.07,1801.26,Standard,5,6,Late,Y,2,83.6
+ORD-0471,26/09/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,21,33.78,709.38,Express,2,2,On Time,N,5,79
+ORD-0472,05/06/2023,Midlands,Warehouse B - Birmingham,Clothing,1,15.01,15.01,Standard,5,7,Late,N,2,76.7
+ORD-0473,02/09/2023,North England,Warehouse A - Manchester,Sports & Outdoors,10,21.64,216.4,Same-Day,1,1,On Time,N,3,59.4
+ORD-0474,22/07/2023,Midlands,Warehouse B - Birmingham,Clothing,8,32.14,257.12,Express,2,2,On Time,N,4,73.2
+ORD-0475,10/11/2023,Midlands,Warehouse B - Birmingham,Clothing,26,87.86,2284.36,Express,2,2,On Time,N,4,52.2
+ORD-0476,26/02/2023,South England,Warehouse C - London,Electronics,21,271.24,5696.04,Standard,5,6,Late,N,2,75.8
+ORD-0477,22/02/2023,South England,Warehouse C - London,Sports & Outdoors,10,68.46,684.6,Standard,5,6,Late,Y,1,85
+ORD-0478,13/09/2023,Midlands,Warehouse B - Birmingham,Clothing,12,63.69,764.28,Standard,5,5,On Time,N,5,75.6
+ORD-0479,29/08/2023,North England,Warehouse A - Manchester,Furniture,6,234.53,1407.18,Standard,5,7,Late,N,1,77.9
+ORD-0480,15/08/2023,London,Warehouse C - London,Clothing,8,92.45,739.6,Express,2,2,On Time,N,5,61.2
+ORD-0481,09/06/2023,London,Warehouse C - London,Food & Grocery,30,19.54,586.2,Express,2,2,On Time,N,5,82
+ORD-0482,27/01/2023,South England,Warehouse C - London,Food & Grocery,28,35,980,Standard,5,5,On Time,N,3,94.1
+ORD-0483,05/05/2023,London,Warehouse C - London,Food & Grocery,1,48.6,48.6,Standard,5,6,Late,N,1,80.3
+ORD-0484,18/12/2023,London,Warehouse C - London,Clothing,20,50.53,1010.6,Standard,5,7,Late,Y,2,93.9
+ORD-0485,07/09/2023,South England,Warehouse C - London,Food & Grocery,8,19.25,154,Standard,5,6,Late,N,3,79.5
+ORD-0486,10/03/2023,Wales,Warehouse E - Cardiff,Electronics,9,457.44,4116.96,Standard,5,5,On Time,N,5,84.1
+ORD-0487,28/08/2023,South England,Warehouse C - London,Electronics,9,444.42,3999.78,Standard,5,8,Failed,Y,1,81
+ORD-0488,21/08/2023,Midlands,Warehouse B - Birmingham,Sports & Outdoors,1,159.67,159.67,Standard,5,6,Late,N,3,62.8
+ORD-0489,02/02/2023,Midlands,Warehouse B - Birmingham,Food & Grocery,22,48.52,1067.44,Standard,5,5,On Time,N,5,76.9
+ORD-0490,14/06/2023,South England,Warehouse C - London,Clothing,4,25.11,100.44,Standard,5,5,On Time,N,4,83.1
+ORD-0491,17/01/2023,North England,Warehouse A - Manchester,Electronics,19,349.54,6641.26,Standard,5,5,On Time,N,5,57.5
+ORD-0492,07/01/2023,North England,Warehouse A - Manchester,Clothing,30,111.71,3351.3,Express,2,6,Failed,N,1,69.5
+ORD-0493,01/08/2023,Scotland,Warehouse D - Edinburgh,Clothing,27,53.75,1451.25,Express,2,4,Late,Y,1,90.5
+ORD-0494,23/09/2023,North England,Warehouse A - Manchester,Clothing,4,25.63,102.52,Same-Day,1,1,On Time,N,5,50.4
+ORD-0495,13/10/2023,Scotland,Warehouse D - Edinburgh,Sports & Outdoors,14,154.3,2160.2,Express,2,3,Late,N,3,92.2
+ORD-0496,09/10/2023,Midlands,Warehouse B - Birmingham,Electronics,13,291.97,3795.61,Express,2,2,On Time,N,5,69.6
+ORD-0497,10/07/2023,London,Warehouse C - London,Food & Grocery,14,39.39,551.46,Same-Day,1,3,Late,N,2,75.1
+ORD-0498,11/05/2023,South England,Warehouse C - London,Furniture,12,773.16,9277.92,Same-Day,1,1,On Time,N,5,75.7
+ORD-0499,04/06/2023,Scotland,Warehouse D - Edinburgh,Food & Grocery,1,18.52,18.52,Same-Day,1,4,Failed,Y,2,76.4
+ORD-0500,12/10/2023,Wales,Warehouse E - Cardiff,Clothing,19,112.22,2132.18,Express,2,2,On Time,N,4,74.5
