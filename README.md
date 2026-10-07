@@ -133,3 +133,7 @@ supply-chain-delivery-optimisation/
 - ✅ Key Findings & Recommendations Summary
 
 ---
+## 👤 About
+
+This project was built as part of a BA/DA portfolio to demonstrate end-to-end business analysis skills across requirements gathering, data analysis, process mapping and stakeholder reporting.
+
