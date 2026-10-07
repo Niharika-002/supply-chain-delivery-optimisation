@@ -20,7 +20,7 @@ within a UK retail supply chain operation.
 The business problem:
 > *"Delivery times are inconsistent, warehouse costs are rising,
 > and customers are leaving due to late or failed deliveries.
-> We need to understand why — and fix it."*
+> We need to understand why and fix it."*
 
 Acting as a BA/DA, I gathered requirements, analysed 500 orders
 across Jan–Dec 2023, identified root causes, and produced
@@ -102,28 +102,18 @@ supply-chain-delivery-optimisation/
 | **Git / GitHub** | Version control & portfolio sharing |
 
 ---
+## 🛠️ AS-IS flow diagram
+<img width="641" height="350" alt="image" src="https://github.com/user-attachments/assets/3a8f9467-693b-400e-932a-5a483b3c735f" />
 
-## 📈 Sample Visualisations
+## 🛠️ TO-BE flow diagram
+<img width="628" height="356" alt="image" src="https://github.com/user-attachments/assets/56a65721-35a0-4d43-9c49-6105ffa97be2" />
 
-### Delivery Status Overview
-![Fig 1](outputs/fig1_delivery_overview.png)
-
-### Regional Performance
-![Fig 2](outputs/fig2_regional_performance.png)
-
-### Warehouse Utilisation vs Delay
-![Fig 4](outputs/fig4_utilisation_vs_delay.png)
-
-### Full Correlation Heatmap
-![Heatmap](outputs/full_correlation_heatmap.png)
-
----
 
 ## 💡 Recommendations
 
 | Priority | Recommendation |
 |---|---|
-| 🔴 High | Redistribute stock from Edinburgh & Cardiff — reduce utilisation below 80% |
+| 🔴 High | Redistribute stock from Edinburgh & Cardiff reduce utilisation below 80% |
 | 🔴 High | Cap Same-Day shipping orders when fulfilment capacity is low |
 | 🔴 High | Introduce priority fulfilment for Electronics & Furniture |
 | 🟡 Medium | Establish monthly SLA review for London & Scotland regions |
